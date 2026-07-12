@@ -56,6 +56,9 @@ Connectivity Verification
 •	SSH to Private EC2
 •	NAT Connectivity Test
 •	Architecture Diagram
+## Architecture Diagram
+<img src="Screenshots/Secure VPC.jpg" width="500">
+
 
 # Challenges Encountered
 •	Resolved SSH connectivity issues by correcting Security Group rules.
