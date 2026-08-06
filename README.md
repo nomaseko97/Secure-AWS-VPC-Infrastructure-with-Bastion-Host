@@ -44,49 +44,52 @@ Connectivity Verification
 
 # Screenshots of the project
 	VPC
-<img src="Screenshots/1 NB-VC CREATED SHOWING CIDR 10 0 0 0 16.jpeg" width="500">
+<img src="Screenshots/VPC.PNG" width="500">
 
 ## Public Subnet
-<img src="Screenshots/2Public subnet.jpeg" width="500">
+<img src="Screenshots/publicSubnet.PNG" width="500">
 
 ## Private Subnet
-<img src="Screenshots/3NB Private subnet.jpeg" width="500">
+<img src="Screenshots/privateSubnet.PNG" width="500">
 
 ## Internet Gateway
-<img src="Screenshots/6 NB IGW.jpeg" width="500">
+<img src="Screenshots/IGW.PNG" width="500">
 
 ## NAT Gateway
-<img src="Screenshots/8 NB NAT gateway.jpeg" width="500">
+<img src="Screenshots/natgateway.PNG" width="500">
 
 ## Public Route Table
-<img src="Screenshots/7NB public route traffic.jpeg" width="500">
+<img src="Screenshots/publicRT.PNG" width="500">
 
 ## Private Route Table
-<img src="Screenshots/10 NB Private Route table  to NAT Gateway.jpeg" width="500"> 
+<img src="Screenshots/privateRT.PNG" width="500"> 
 
 ## Public	Security Group
-<img src="Screenshots/11 NB Public Ec2 security group.jpeg" width="500">
+<img src="Screenshots/publicSG.PNG" width="500">
 
 ## Private	Security Group
-<img src="Screenshots/NB-Private EC2 SG.jpeg" width="500">
+<img src="Screenshots/privateSG.PNG" width="500">
 
-##	Network ACLs
-<img src="Screenshots/1 NB-VC CREATED SHOWING CIDR 10 0 0 0 16.jpeg" width="500">
+##	Public Network ACLs
+<img src="Screenshots/publicNacl.PNG" width="500">
+
+##	Private Network ACLs
+<img src="Screenshots/privateNacl.PNG" width="500">
+
+##	Public And Private EC2s
+<img src="Screenshots/private n public EC2.PNG" width="500">
 
 ##	Public EC2
-<img src="Screenshots/17 NB Public EC2.jpeg" width="500">
+<img src="Screenshots/publicEC2.PNG" width="500">
 
 ##	Private EC2
-<img src="Screenshots/NB-Private EC2 SG.jpeg" width="500">
+<img src="Screenshots/privateEc2.PNG" width="500">
 
 ##	SSH to Bastion Host
 <img src="Screenshots/BastionSSHSuccess2.PNG" width="500">
 
-##	SSH to Private EC2
+##	SSH to Private EC2 And NAT Connectivity Test
 <img src="Screenshots/privateEC2OutboundConnectivity.PNG" width="500">
-
-##	NAT Connectivity Test
-<img src="Screenshots/NB Public EC2 passed 3 checks.jpeg" width="500">
 
 ## Architecture Diagram
 <img src="Screenshots/Secure VPC.jpg" width="500">
