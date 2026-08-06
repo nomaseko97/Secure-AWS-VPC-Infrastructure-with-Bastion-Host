@@ -92,7 +92,7 @@ Connectivity Verification
 <img src="Screenshots/privateEC2OutboundConnectivity.PNG" width="500">
 
 ## Architecture Diagram
-<img src="Screenshots/Secure VPC.jpg" width="500">
+<img src="Screenshots/architecture.PNG" width="500">
 
 
 
