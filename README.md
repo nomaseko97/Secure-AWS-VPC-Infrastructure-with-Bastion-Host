@@ -91,6 +91,13 @@ Connectivity Verification
 ## Architecture Diagram
 <img src="Screenshots/Secure VPC.jpg" width="500">
 
+## Successful SSH Connection from Local Machine to Public EC2 Bastion Host
+<img src="Screenshots/BastionSSHSuccess2.PNG" width="500">
+ 
+## Successful SSH Connection from Public Bastion EC2 to Private EC2 Instance
+<img src="Screenshots/privateEC2OutboundConnectivity.PNG" width="500">
+ 
+
 
 # Challenges Encountered
 •	Resolved SSH connectivity issues by correcting Security Group rules.
